@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Md Mahadi Hasan | Cybersecurity Professional</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --bg-color: #0b0e14;
+            --card-bg: #161b22;
+            --text-main: #e6edf3;
+            --accent-color: #238636; /* Security Green */
+            --accent-secondary: #58a6ff;
+        }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: var(--bg-color); color: var(--text-main); line-height: 1.6; margin: 0; padding: 0; }
+        header { padding: 4rem 2rem; text-align: center; background: linear-gradient(135deg, #161b22 0%, #0b0e14 100%); border-bottom: 1px solid #30363d; }
+        .container { max-width: 900px; margin: auto; padding: 2rem; }
+        h1 { font-size: 2.5rem; margin-bottom: 0.5rem; color: var(--accent-secondary); }
+        .tagline { font-size: 1.2rem; color: #8b949e; margin-bottom: 1.5rem; }
+        .section-title { border-left: 4px solid var(--accent-color); padding-left: 1rem; margin: 2.5rem 0 1.5rem; color: var(--accent-main); }
+        .skill-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
+        .card { background: var(--card-bg); padding: 1.5rem; border-radius: 8px; border: 1px solid #30363d; margin-bottom: 1rem; }
+        .contact-links a { color: var(--accent-secondary); text-decoration: none; margin: 0 10px; font-size: 1.2rem; }
+        footer { text-align: center; padding: 2rem; color: #8b949e; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Md Mahadi Hasan</h1>
+    <div class="tagline">Entry-Level SOC Analyst | Cybersecurity Analyst</div>
+    <div class="contact-links">
+        <a href="mailto:rafsan1081@gmail.com"><i class="fas fa-envelope"></i></a>
+        <a href="https://www.linkedin.com/in/rafsan1081" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <p>Ellicott City, Maryland, USA</p>
+    </div>
+</header>
+
+<div class="container">
+    <section>
+        <h2 class="section-title">Professional Summary</h2>
+        [cite_start]<p>I recently completed my MS in Cybersecurity at Washington University of Science and Technology (WUST)[cite: 19]. [cite_start]I specialize in threat detection, ethical hacking, and vulnerability assessment using tools like Splunk, Nessus, and Kali Linux[cite: 15, 20]. [cite_start]My background in brand strategy gives me a unique perspective on how security decisions impact organizational risk posture[cite: 23].</p>
+    </section>
+
+    <section>
+        <h2 class="section-title">Technical Skills</h2>
+        <div class="skill-grid">
+            [cite_start]<div class="card"><strong>Tools:</strong> Splunk, Nessus, Wireshark, Kali Linux [cite: 15, 20]</div>
+            [cite_start]<div class="card"><strong>Core Security:</strong> SIEM, Penetration Testing, Risk Assessment, Digital Forensics [cite: 26, 27]</div>
+            [cite_start]<div class="card"><strong>Languages:</strong> English, Bengali, Hindi [cite: 11, 12, 13]</div>
+        </div>
+    </section>
+
+    <section>
+        <h2 class="section-title">Education</h2>
+        <div class="card">
+            <strong>MS in Cybersecurity</strong><br>
+            Washington University of Science and Technology (WUST) | [cite_start]July 2024 [cite: 117]
+        </div>
+        <div class="card">
+            <strong>MBA in Management & Operations</strong><br>
+            Central Michigan University | [cite_start]2023 [cite: 121]
+        </div>
+    </section>
+
+    <section>
+        <h2 class="section-title">Experience Highlights</h2>
+        <div class="card">
+            [cite_start]<strong>Head of Marketing</strong> - Metaphor Security [cite: 35]<br>
+            <em>June 2025 - Nov 2025</em><br>
+            [cite_start]Lead strategic marketing initiatives and brand positioning across multiple channels[cite: 39, 41].
+        </div>
+        <div class="card">
+            [cite_start]<strong>Brand Manager</strong> - PRAN-RFL Group [cite: 47]<br>
+            <em>Nov 2021 - Dec 2022</em><br>
+            [cite_start]Managed brand presence, defined product road maps, and conducted competitive strategic analysis[cite: 49, 52, 56].
+        </div>
+    </section>
+</div>
+
+<footer>
+    &copy; 2026 Md Mahadi Hasan | Building a more secure digital future.
+</footer>
+
+</body>
+</html>
